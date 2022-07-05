@@ -1,0 +1,27 @@
+.text-center{
+    text-align: center;
+}
+
+
+
+
+.bg-grey{
+    background-color: grey;
+}
+
+.m-w-20{
+    max-width: 30vw;
+}
+
+.mx-auto{
+ margin:auto;
+}
+
+
+.flex{
+    display:flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
